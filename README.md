@@ -19,5 +19,5 @@ Java solutions to CSES Problem Set
 
  <ins>Shortest Routes I</ins> - Dijkstra algorithm. Even lazy dijkstra would work.
 
- <ins>Shortest Routes I</ins> - Precompute all distances using. eager implementation of Dijkstra algorithm. After that each
+ <ins>Shortest Routes I</ins> - Precompute all distances using eager implementation of Dijkstra algorithm. After that each
    query would run in O(1).
