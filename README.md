@@ -8,7 +8,7 @@ Java solutions to CSES Problem Set
    for columns for easy implementation.
 
  <ins>Building Roads</ins> - Given n cities with m roads. If we could find out the number of isolated subgraphs
-   of the graph, call it x. Then we need x-1 roads. Only 1 road is needed to connect any two components. 
+   of the graph, say x. Then we need x-1 roads. Only 1 road is needed to connect any two components. 
    
  <ins>Message Route</ins> - Use BFS for the shortest path. Parent/prev array can be used to trace the path.
 
