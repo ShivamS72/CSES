@@ -1,7 +1,7 @@
 # CSES
 Java solutions to CSES Problem Set
 
-## Graph-Section
+## Graph-Algorithms
  <ins>Building Teams</ins> - Find connected components in the graph.
 
  <ins>Labyrinth</ins> - BFS can be used to find the shortest path. Use 2 queues for, one for rows and one
