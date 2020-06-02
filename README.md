@@ -16,3 +16,5 @@ Java solutions to CSES Problem Set
 
  <ins>Round Trip</ins> - Detecting a cycle with more than 2 nodes. Use DFS with parent/prev array to trace
    the path.
+
+ <ins>Shortest Routes I</ins> - Dijkstra algorithm. Even lazy dijkstra would work.
